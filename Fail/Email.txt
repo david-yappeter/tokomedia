@@ -1,0 +1,42 @@
+email@gmail.com
+David Yappeter
+12345
+4
+Gmail.com Tokomedia.com
+Transaksi Berhasil
+Tue Jul 07 16:18:04 2020
+Gmail.com MBanking
+Top-Up Saldo Berhasil
+Wed Jul 08 22:55:26 2020
+Gmail.com Tokomedia.com
+Transaksi Berhasil
+Wed Jul 08 22:56:52 2020
+Gmail.com Tokomedia.com
+Transaksi Berhasil
+Fri Jul 10 00:03:05 2020
+a@gmail.com
+Natanael Geraldo
+12345
+0
+bli@gmail.com
+blitzen
+123
+1
+Gmail.com MBanking
+Top-Up Saldo Berhasil
+Fri Jul 10 12:14:44 2020
+r@gmail.com
+david
+12345
+1
+Gmail.com MBanking
+Top-Up Saldo Berhasil
+Sat Jul 11 14:35:16 2020
+asd@gmail.com
+qwe
+123
+0
+qwe@gmail.com
+asd
+123
+0
